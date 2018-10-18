@@ -1,3 +1,3 @@
-[submodule "model_test_son"]
-	path = model_test_son
-	url = C:\\Users\\CTWLPC\\Documents\\model_test_son
+[submodule "son"]
+	path = son
+	url = https://github.com/dogchenmao/model_test_son.git
